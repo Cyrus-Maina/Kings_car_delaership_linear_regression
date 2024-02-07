@@ -43,5 +43,4 @@ The model will also help respond to updated inventory management that meets cust
 The constant value to use in the linear regression formula will be 4.3265.
 
 Dive in the notebook for enlightenment!
-y=b0+b1(x)+b2(x)...+bn(x)
 
